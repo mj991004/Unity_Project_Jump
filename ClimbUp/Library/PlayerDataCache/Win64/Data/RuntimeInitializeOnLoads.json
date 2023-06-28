@@ -1,1 +1,1 @@
-{"root":[{"assemblyName":"spine-unity","nameSpace":"Spine.Unity.AttachmentTools","className":"AtlasUtilities","methodName":"Init","loadTypes":4,"isUnityClass":false}]}
+{"root":[{"assemblyName":"Assembly-CSharp","nameSpace":"","className":"GameManager","methodName":"FirstLoad","loadTypes":1,"isUnityClass":false}]}
