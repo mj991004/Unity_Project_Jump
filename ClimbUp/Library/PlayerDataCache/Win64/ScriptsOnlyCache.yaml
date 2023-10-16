@@ -6,11 +6,11 @@ ScriptsOnlyBuild:
     - FlatformMove
     - GameManager
     - MenuBtnManager
+    - PlayerControl
     - RecordManager
     - ResultManager
     - UiManager
     - cameraMove
-    - playerControlDot
     - slider
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
@@ -28,6 +28,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.TileDragAndDropManager
     - UnityEditor.Tilemaps.TilemapPrefabStageHelper
     Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.RiderScriptEditorData
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
@@ -70,21 +71,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1590}
     - Class: 114
-      Script: {instanceID: 2208}
+      Script: {instanceID: 1708}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2210}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2940}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 2942}
     - Class: 114
-      Script: {instanceID: 3290}
+      Script: {instanceID: 3180}
     - Class: 114
-      Script: {instanceID: 3730}
+      Script: {instanceID: 3292}
     - Class: 114
-      Script: {instanceID: 21952}
+      Script: {instanceID: 3734}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -123,21 +124,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1590}
     - Class: 114
-      Script: {instanceID: 2208}
+      Script: {instanceID: 2210}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2940}
+      Script: {instanceID: 2942}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 3180}
     - Class: 114
-      Script: {instanceID: 3290}
+      Script: {instanceID: 3292}
     - Class: 114
-      Script: {instanceID: 22996}
+      Script: {instanceID: 3646}
     - Class: 114
-      Script: {instanceID: 25126}
+      Script: {instanceID: 4978}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -174,17 +175,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2208}
+      Script: {instanceID: 2210}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2940}
+      Script: {instanceID: 2942}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 3180}
     - Class: 114
-      Script: {instanceID: 3254}
+      Script: {instanceID: 3256}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -237,35 +238,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1590}
     - Class: 114
-      Script: {instanceID: 1766}
+      Script: {instanceID: 1768}
     - Class: 114
-      Script: {instanceID: 2208}
+      Script: {instanceID: 2210}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2880}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 2940}
+      Script: {instanceID: 2942}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 3180}
     - Class: 114
-      Script: {instanceID: 3290}
+      Script: {instanceID: 3292}
     - Class: 114
-      Script: {instanceID: 3524}
+      Script: {instanceID: 3526}
     - Class: 114
-      Script: {instanceID: 3574}
+      Script: {instanceID: 3576}
     - Class: 114
-      Script: {instanceID: 4056}
+      Script: {instanceID: 4060}
     - Class: 114
-      Script: {instanceID: 4512}
+      Script: {instanceID: 4516}
     - Class: 114
-      Script: {instanceID: 5038}
+      Script: {instanceID: 4978}
     - Class: 114
-      Script: {instanceID: 22996}
+      Script: {instanceID: 5044}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -318,35 +319,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1590}
     - Class: 114
-      Script: {instanceID: 1766}
+      Script: {instanceID: 1768}
     - Class: 114
-      Script: {instanceID: 2208}
+      Script: {instanceID: 2210}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2880}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 2940}
+      Script: {instanceID: 2942}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 3180}
     - Class: 114
-      Script: {instanceID: 3290}
+      Script: {instanceID: 3292}
     - Class: 114
-      Script: {instanceID: 3524}
+      Script: {instanceID: 3526}
     - Class: 114
-      Script: {instanceID: 3574}
+      Script: {instanceID: 3576}
     - Class: 114
-      Script: {instanceID: 4056}
+      Script: {instanceID: 4060}
     - Class: 114
-      Script: {instanceID: 4512}
+      Script: {instanceID: 4516}
     - Class: 114
-      Script: {instanceID: 5038}
+      Script: {instanceID: 4978}
     - Class: 114
-      Script: {instanceID: 22996}
+      Script: {instanceID: 5044}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -408,6 +409,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 15db2b799cd29d16dbad509197637e7c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MenuBtnManager
   - hash:
       serializedVersion: 2
       Hash: 59ce5902048c1041729c804e2772b2ce
@@ -569,7 +576,7 @@ ScriptsOnlyBuild:
       Hash: ce00a6871485b53b1728bf9ca8e9f110
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: playerControlDot
+    className: PlayerControl
   - hash:
       serializedVersion: 2
       Hash: a306e12d896ddcca949923c805691027
@@ -684,6 +691,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8f50ac8cd249c9d225245daf54adfd23
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RecordManager
   - hash:
       serializedVersion: 2
       Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
@@ -902,10 +915,10 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
-      Hash: ce00a6871485b53b1728bf9ca8e9f110
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: playerControl
+    className: BackToMenuBtnManager
   - hash:
       serializedVersion: 2
       Hash: 6b05386ad887cd761d64d67baf116663
@@ -942,24 +955,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
-  - hash:
-      serializedVersion: 2
-      Hash: 15db2b799cd29d16dbad509197637e7c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MenuBtnManager
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BackToMenuBtnManager
-  - hash:
-      serializedVersion: 2
-      Hash: 8f50ac8cd249c9d225245daf54adfd23
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RecordManager
   platform: 19
   scenePathNames:
   - Assets/Scenes/MenuScene.unity
@@ -967,4 +962,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/ResultScene.unity
   - Assets/Scenes/StageScene_1.unity
   - Assets/Scenes/StageScene_2.unity
-  playerPath: C:/Users/user/Desktop/ClimbUp2.1/ClimbUp.exe
+  playerPath: C:/Users/user/Desktop/ClimbUp 2.1.1/ClimbUp.exe

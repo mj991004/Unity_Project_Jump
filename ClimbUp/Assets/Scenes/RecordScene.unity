@@ -193,8 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uAC8C\uC784 \uC81C\uC791 : \uAC24\uB876garrof\n\uB3C4\uD2B8 \uC81C\uC791
-    : holymadness2\uD638"
+  m_Text: "\uB3C4\uD2B8 \uC81C\uC791 : holymadness2\uD638"
 --- !u!222 &115650702
 CanvasRenderer:
   m_ObjectHideFlags: 0
